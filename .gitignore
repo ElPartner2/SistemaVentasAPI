@@ -1,0 +1,42 @@
+# Archivos locales de Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Resultados de compilacion
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Resultados de pruebas y cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Configuracion privada
+.env
+.env.*
+!.env.example
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+
+# Certificados y claves privadas
+*.pfx
+*.p12
+*.key
+
+# Archivos locales de bases de datos
+*.mdf
+*.ldf
+*.bak
+
+# Archivos temporales
+*.tmp
+*.log
+~$*
+Thumbs.db
+.DS_Store
