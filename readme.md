@@ -41,8 +41,6 @@ devolviendo las existencias correspondientes.
 
 - database/: scripts de estructura, datos y comprobación.
 - docs/diagrama-er/: diagrama de la base de datos.
-- docs/evidencias/: capturas de las comprobaciones.
-- docs/documentacion/: documentación académica.
 - src/: código de la API, pendiente de creación.
 - postman/: colección de pruebas, pendiente de creación.
 
